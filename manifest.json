@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "옥고리즘 과제 체커",
+  "description": "상시 과제 기습 목격",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "128.png"
+  }
+}
